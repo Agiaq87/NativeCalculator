@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">NDKCalculator</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="zero">0</string>
+    <string name="deleteLast">L</string>
+    <string name="deleteAll">A</string>
+
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multiply">*</string>
+    <string name="div">/</string>
+    <string name="modulo">%</string>
+    <string name="pow2">^2</string>
+    <string name="sqrt">\u221a</string>
+    <string name="nothing_to">Nessuna operazione da effettuare</string>
+    <string name="welcome">Benvenuto</string>
+    <string name="deleted_all">Memoria cancellata</string>
+    <string name="deleted_last">Ultimo cancellato</string>
+    <string name="comma">,</string>
+    <string name="factorial">FACT</string>
+    <string name="insert_fact">Inserire i valori del fattoriale</string>
+    <string name="fact_comma">Valori decimali non accettabili</string>
+    <string name="fact_not_value">Non è un valore accettabile</string>
+</resources>
